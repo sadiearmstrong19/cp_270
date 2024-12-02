@@ -3,7 +3,7 @@
 
 ### Gradient Habitat Suitability ###
 
-library(spocc)
+library(spocc) 
 library(spThin)
 library(dismo)
 library(sf)

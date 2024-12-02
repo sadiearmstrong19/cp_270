@@ -10,9 +10,6 @@ library(sf)
 library(ENMeval)
 library(wallace)
 
-# example:
-# just type the function name and press Return to see its source code
-# paste this code into a new script to edit it
 occs_queryDb
 
 # Query selected database for occurrence records

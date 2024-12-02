@@ -1,7 +1,7 @@
 # cp_270
 # Final project for Conservation Planning Practicum (ESM270P)
 
-### Gradient Habitat Suitability ###
+### Gradient Habitat Suitability - Fritillaria ojaiensis ###
 
 library(spocc) 
 library(spThin)
